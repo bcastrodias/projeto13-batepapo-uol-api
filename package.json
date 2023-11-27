@@ -1,0 +1,11 @@
+{
+    "name": "projeto12-batepapo-uol-api",
+    "version": "1.0.0",
+    "description": "projeto12-batepapo-uol-api",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon server.js"
+    },
+}
